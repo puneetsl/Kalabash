@@ -1,3 +1,3 @@
-# MacBashProfile
-Powerful Bash profile for Mac. For doing things quickly
+# Kalabash
+Powerful Bash profile for *nix systems. For doing things quickly
 
